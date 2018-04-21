@@ -20,4 +20,4 @@ function accessElementInArray(array,index) {
   return array [index]
 }
 
-function de
+function destructivelyRemoveElementFromBeginningOfArray (array)
